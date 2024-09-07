@@ -1,0 +1,1 @@
+This application is a Streamlit-based tool that automates LinkedIn profile search and summary generation. Recruiters input a candidate's name, and the app fetches the LinkedIn profile, extracts data, and uses an LLM to create a concise summary, simplifying the hiring process with AI-driven insights.
