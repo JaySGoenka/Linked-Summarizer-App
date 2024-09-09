@@ -21,11 +21,11 @@ Summary_Generator.py: Uses the LLM to generate professional summaries from profi
 
 Ensure you have the following installed on your machine:
 
--Python 3.8 or above
--Git
--Streamlit
--TavilySearch API
--Proxycurl API
+- Python 3.8 or above
+- Git
+- Streamlit
+- TavilySearch API
+- Proxycurl API
 
 ## Usage
 
